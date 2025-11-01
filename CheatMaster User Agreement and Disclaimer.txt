@@ -1,110 +1,226 @@
-CheatMaster 用户协议与免责声明
-CheatMaster User Agreement and Disclaimer
+<div id="disclaimer-overlay" class="disclaimer-overlay">
+        <div class="disclaimer-content">
+            <h2 id="disclaimer-title">CheatMaster User Agreement and Disclaimer</h2>
+            <p id="disclaimer-signed-time" class="hidden"></p>
+            <div class="language-switcher">
+                <button class="lang-btn" data-lang="zh">中文 Chinese</button>
+                <button class="lang-btn" data-lang="en">English 英语</button>
+            </div>
+            <div class="lang-zh">
+                <p>欢迎使用 CheatMaster 浏览器扩展。在使用本扩展之前，请您务必仔细阅读并理解本《用户协议和免责声明》（以下简称“本协议”）。</p>
+                <p><strong>最后更新日期: 2025年11月</strong></p>
 
-最后更新日期/Last Updated: 2025年10月/October 2025
+            </div>
+            <div class="lang-en">
+                <p>Welcome to the CheatMaster browser extension. Before using this extension, please carefully read and understand this "User Agreement and Disclaimer" (hereinafter referred to as "this Agreement").</p>
+                 <p><strong>Last Updated: October 2025</strong></p>
+            </div>
+            <br>
+            <div class="lang-zh">
+                <h3>一、最终用户许可协议</h3>
+                <p><strong>1. 接受条款</strong></p>
+                <p>通过安装、复制、下载、访问或使用 CheatMaster 浏览器扩展（下称"本软件"），您即表示同意受本协议条款的法律约束。如果您不同意这些条款，请立即卸载并停止使用本软件。</p>
+                <p><strong>2. 授权与限制</strong></p>
+                <p>2.1. <strong>有限许可</strong>：开发者 ItsTimeTooSleep 授予您一项个人的、非排他性、不可转让、可撤销的许可，以在您个人控制的设备上使用本软件。</p>
+                <p>2.2. <strong>使用限制</strong>：您不得且同意不将本软件用于：</p>
+                <ul>
+                    <li>a) 任何非法或未经授权的目的；</li>
+                    <li>b) 违反任何适用法律、法规、学校政策、服务条款的行为；</li>
+                    <li>c) 进行商业性复制、分发、修改或创建衍生作品；</li>
+                    <li>d) 进行任何反向工程、反编译或试图提取源代码的行为。</li>
+                </ul>
+                <p><strong>3. 开发者权利</strong></p>
+                <p>3.1. 开发者 ItsTimeTooSleep 保留所有权利，包括但不限于随时修改、更新、暂停或终止本软件或其任何功能的权利。</p>
+                <p>3.2. 开发者 ItsTimeTooSleep 保留出于任何原因或其单方酌定，包括但不限于为遵守法律、应对安全威胁、修复错误或进行系统维护，随时远程禁用或终止本软件服务的权利。</p>
+                <p><strong>4. 用户责任与义务</strong></p>
+                <p>您明确理解并同意，您对本软件的使用负全部和最终责任。您承认，使用本软件可能导致第三方服务对您采取纪律处分，包括但不限于：课程成绩作废、账户暂停或永久封禁、学术警告等。<strong>开发者 ItsTimeTooSleep 对此类后果不承担任何责任。</strong></p>
+            </div>
+            <div class="lang-en">
+                <h3>End User License Agreement</h3>
+                <p><strong>1. Acceptance of Terms</strong></p>
+                <p>By installing, copying, downloading, accessing or using the CheatMaster browser extension (the "Software"), you agree to be legally bound by the terms of this agreement. If you do not agree to these terms, please uninstall and cease using the Software immediately.</p>
+                <p><strong>2. License and Restrictions</strong></p>
+                <p>2.1. <strong>Limited License</strong>: Developer ItsTimeTooSleep grants you a personal, non-exclusive, non-transferable, revocable license to use the Software on devices under your personal control.</p>
+                <p>2.2. <strong>Usage Restrictions</strong>: You shall not and agree not to use the Software for:</p>
+                <ul>
+                    <li>a) Any illegal or unauthorized purpose;</li>
+                    <li>b) Violating any applicable laws, regulations, school policies, or terms of service;</li>
+                    <li>c) Commercial copying, distribution, modification, or creation of derivative works;</li>
+                    <li>d) Any reverse engineering, decompilation, or attempt to extract source code.</li>
+                </ul>
+                <p><strong>3. Developer Rights</strong></p>
+                <p>3.1. Developer ItsTimeTooSleep reserves all rights, including but not limited to the right to modify, update, suspend or terminate the Software or any of its features at any time.</p>
+                <p>3.2. Developer ItsTimeTooSleep reserves the right to remotely disable or terminate the Software services at any time for any reason or at its sole discretion, including but not limited to legal compliance, security threats, bug fixes, or system maintenance.</p>
+                <p>3.2. Developer ItsTimeTooSleep reserves the right to remotely disable or terminate the Software services at any time for any reason or at its sole discretion, including but not limited to legal compliance, security threats, bug fixes, or system maintenance.</p>
+                <p><strong>4. User Responsibilities and Obligations</strong></p>
+                <p>You expressly understand and agree that you bear full and final responsibility for your use of the Software. You acknowledge that using the Software may lead to disciplinary actions by third-party services, including but not limited to: course grade invalidation, account suspension or permanent ban, academic warnings, etc. <strong>Developer ItsTimeTooSleep assumes no responsibility for such consequences.</strong></p>
+            </div>
+            <br>
+            <div class="lang-zh active">
+                <h3>二、账号系统使用规则</h3>
+                <p><strong>1. 账号注册与要求</strong></p>
+                <p>1.1 使用本软件前，您必须注册 CheatMaster 账号并通过验证。</p>
+                <p>1.2 您承诺注册时提供真实、准确、完整的个人信息，并保持信息的及时更新。</p>
+                <p>1.3 您必须年满13周岁或达到您所在国家/地区规定的法定年龄，才能注册和使用本软件。</p>
 
-一、最终用户许可协议 / End User License Agreement
+                <p><strong>2. 账号使用限制</strong></p>
+                <p>2.1 <strong>禁止账号共享</strong>：您的账号仅供您个人使用，严禁以任何形式与他人共享、出借、转让或售卖账号。</p>
+                <p>2.2 <strong>使用监测</strong>：开发者有权监测账号使用模式，如发现异常使用行为（如短时间内从多个地理位置登录），可能被视为账号共享的证据。</p>
+                <p>2.3 <strong>违规后果</strong>：如发现账号共享行为，开发者有权立即暂停或永久终止您的账号，且不提供任何退款或补偿。</p>
 
-1. 接受条款 / Acceptance of Terms
-通过安装、复制、下载、访问或使用 CheatMaster 浏览器扩展（下称"本软件"），您即表示同意受本协议条款的法律约束。如果您不同意这些条款，请立即卸载并停止使用本软件。
-By installing, copying, downloading, accessing or using the CheatMaster browser extension (the "Software"), you agree to be legally bound by the terms of this agreement. If you do not agree to these terms, please uninstall and cease using the Software immediately.
+                <p><strong>3. 账号安全</strong></p>
+                <p>3.1 您有责任维护账号和密码的机密性，并对使用您账号的所有活动承担全部责任。</p>
+                <p>3.2 如发现任何未经授权使用您账号的情况，应立即通知开发者。</p>
 
-2. 授权与限制 / License and Restrictions
-2.1. 有限许可 / Limited License：开发者 ItsTimeTooSleep 授予您一项个人的、非排他性、不可转让、可撤销的许可，以在您个人控制的设备上使用本软件。
-Developer ItsTimeTooSleep grants you a personal, non-exclusive, non-transferable, revocable license to use the Software on devices under your personal control.
+                <p><strong>4. 开发者账号管理权利</strong></p>
+                <p>4.1 开发者 ItsTimeTooSleep 保留随时因任何原因暂停、限制或终止您账号的权利，无需事先通知。</p>
+                <p>4.2 开发者有权单方面判定账号使用行为是否违反本协议，并据此采取相应措施。</p>
+                <p>4.3 账号被禁用或终止后，您可能无法访问存储在服务器上的数据，开发者不承担数据恢复责任。</p>
+            </div>
 
-2.2. 使用限制 / Usage Restrictions：您不得且同意不将本软件用于：
-You shall not and agree not to use the Software for:
-a) 任何非法或未经授权的目的 / Any illegal or unauthorized purpose;
-b) 违反任何适用法律、法规、学校政策、服务条款的行为 / Violating any applicable laws, regulations, school policies, or terms of service;
-c) 进行商业性复制、分发、修改或创建衍生作品 / Commercial copying, distribution, modification, or creation of derivative works;
-d) 进行任何反向工程、反编译或试图提取源代码的行为 / Any reverse engineering, decompilation, or attempt to extract source code.
+            <div class="lang-en">
+                <h3>Account System Usage Rules</h3>
+                <p><strong>1. Account Registration and Requirements</strong></p>
+                <p>1.1 Before using the Software, you must register a CheatMaster account and pass verification.</p>
+                <p>1.2 You promise to provide true, accurate, and complete personal information during registration and keep this information updated in a timely manner.</p>
+                <p>1.3 You must be at least 13 years old or meet the legal age requirement in your country/region to register and use the Software.</p>
 
-3. 开发者权利 / Developer Rights
-3.1. 开发者 ItsTimeTooSleep 保留所有权利，包括但不限于随时修改、更新、暂停或终止本软件或其任何功能的权利。
-Developer ItsTimeTooSleep reserves all rights, including but not limited to the right to modify, update, suspend or terminate the Software or any of its features at any time.
+                <p><strong>2. Account Usage Restrictions</strong></p>
+                <p>2.1 <strong>Prohibition of Account Sharing</strong>: Your account is for your personal use only. Sharing, lending, transferring, or selling your account in any form is strictly prohibited.</p>
+                <p>2.2 <strong>Usage Monitoring</strong>: The developer has the right to monitor account usage patterns. If abnormal usage behavior is detected (such as logging in from multiple geographic locations in a short time), it may be considered evidence of account sharing.</p>
+                <p>2.3 <strong>Consequences of Violation</strong>: If account sharing is discovered, the developer has the right to immediately suspend or permanently terminate your account without providing any refund or compensation.</p>
 
-3.2. 开发者 ItsTimeTooSleep 保留出于任何原因或其单方酌定，包括但不限于为遵守法律、应对安全威胁、修复错误或进行系统维护，随时远程禁用或终止本软件服务的权利。
-Developer ItsTimeTooSleep reserves the right to remotely disable or terminate the Software services at any time for any reason or at its sole discretion, including but not limited to legal compliance, security threats, bug fixes, or system maintenance.
+                <p><strong>3. Account Security</strong></p>
+                <p>3.1 You are responsible for maintaining the confidentiality of your account and password, and you bear full responsibility for all activities conducted under your account.</p>
+                <p>3.2 If you discover any unauthorized use of your account, you should notify the developer immediately.</p>
 
-4. 用户责任与义务 / User Responsibilities and Obligations
-您明确理解并同意，您对本软件的使用负全部和最终责任。您承认，使用本软件可能导致第三方服务对您采取纪律处分，包括但不限于：课程成绩作废、账户暂停或永久封禁、学术警告等。开发者 ItsTimeTooSleep 对此类后果不承担任何责任。
-You expressly understand and agree that you bear full and final responsibility for your use of the Software. You acknowledge that using the Software may lead to disciplinary actions by third-party services, including but not limited to: course grade invalidation, account suspension or permanent ban, academic warnings, etc. Developer ItsTimeTooSleep assumes no responsibility for such consequences.
+                <p><strong>4. Developer Account Management Rights</strong></p>
+                <p>4.1 Developer ItsTimeTooSleep reserves the right to suspend, restrict, or terminate your account at any time for any reason, without prior notice.</p>
+                <p>4.2 The developer has the right to unilaterally determine whether account usage violates this agreement and take corresponding measures accordingly.</p>
+                <p>4.3 After an account is disabled or terminated, you may lose access to data stored on the server, and the developer assumes no responsibility for data recovery.</p>
+            </div>
+            <br>
+            <h3>三、免责声明</h3>
+            <div class="lang-zh">
+                <p><strong>1. 无担保</strong></p>
+                <p>本软件按"原样"和"现状"提供。开发者 ItsTimeTooSleep 不对本软件作任何明示、暗示或法定的担保，包括但不限于对适销性、特定用途适用性、准确性、安静享受和无侵权行为的担保。</p>
 
-二、免责声明 / Disclaimer
+                <p><strong>2. 关键风险告知</strong></p>
+                <p>您明确承认并同意，使用本软件涉及以下重大风险：</p>
+                <ul>
+                    <li><strong>学术风险</strong>：使用本软件完成作业、测验或考试，构成学术欺诈。一旦被发现，您可能面临课程失败、留校察看、甚至被开除学籍的严重后果。</li>
+                    <li><strong>账户风险</strong>：您所使用的网站可能会检测到异常活动并永久封禁您的账户。</li>
+                    <li><strong>功能风险</strong>：开发者不保证本软件无错误或缺陷，不保证其功能符合您的所有要求。</li>
+                </ul>
 
-1. 无担保 / No Warranty
-本软件按"原样"和"现状"提供。开发者 ItsTimeTooSleep 不对本软件作任何明示、暗示或法定的担保，包括但不限于对适销性、特定用途适用性、准确性、安静享受和无侵权行为的担保。
-The Software is provided "as is" and "as available". Developer ItsTimeTooSleep makes no express, implied, or statutory warranties regarding the Software, including but not limited to warranties of merchantability, fitness for a particular purpose, accuracy, quiet enjoyment, and non-infringement.
+                <p><strong>3. 责任限制</strong></p>
+                <p>在任何情况下，开发者 ItsTimeTooSleep 均不对因使用或无法使用本软件而导致的任何直接、间接、附带、特殊、衍生性或惩罚性损害赔偿承担责任。</p>
+            </div>
+            <div class="lang-en">
+                <h3>Disclaimer</h3>
+                <p><strong>1. No Warranty</strong></p>
+                <p>The Software is provided "as is" and "as available". Developer ItsTimeTooSleep makes no express, implied, or statutory warranties regarding the Software, including but not limited to warranties of merchantability, fitness for a particular purpose, accuracy, quiet enjoyment, and non-infringement.</p>
 
-2. 关键风险告知 / Critical Risk Disclosure
-您明确承认并同意，使用本软件涉及以下重大风险：
-You expressly acknowledge and agree that using the Software involves the following significant risks:
-学术风险 / Academic Risks：使用本软件完成作业、测验或考试，构成学术欺诈。一旦被发现，您可能面临课程失败、留校察看、甚至被开除学籍的严重后果。/ Using the Software to complete assignments, quizzes, or exams constitutes academic fraud. If discovered, you may face severe consequences including course failure, academic probation, or even expulsion.
-账户风险 / Account Risks：您所使用的网站可能会检测到异常活动并永久封禁您的账户。/ The websites you use may detect unusual activity and permanently ban your account.
-功能风险 / Functional Risks：开发者不保证本软件无错误或缺陷，不保证其功能符合您的所有要求。/ The developer does not guarantee that the Software is error-free or defect-free, nor that its functions will meet all your requirements.
+                <p><strong>2. Critical Risk Disclosure</strong></p>
+                <p>You expressly acknowledge and agree that using the Software involves the following significant risks:</p>
+                <ul>
+                    <li><strong>Academic Risks</strong>: Using the Software to complete assignments, quizzes, or exams constitutes academic fraud. If discovered, you may face severe consequences including course failure, academic probation, or even expulsion.</li>
+                    <li><strong>Account Risks</strong>: The websites you use may detect unusual activity and permanently ban your account.</li>
+                    <li><strong>Functional Risks</strong>: The developer does not guarantee that the Software is error-free or defect-free, nor that its functions will meet all your requirements.</li>
+                </ul>
 
-3. 责任限制 / Limitation of Liability
-在任何情况下，开发者 ItsTimeTooSleep 均不对因使用或无法使用本软件而导致的任何直接、间接、附带、特殊、衍生性或惩罚性损害赔偿承担责任。
-In no event shall Developer ItsTimeTooSleep be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from the use or inability to use the Software.
+                <p><strong>3. Limitation of Liability</strong></p>
+                <p>In no event shall Developer ItsTimeTooSleep be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from the use or inability to use the Software.</p>
+            </div>
+            <br>
+            <div class="lang-zh">
+                <h3>四、隐私政策</h3>
+                <p><strong>1. 数据处理</strong></p>
+                <p>1.1 本软件在您的浏览器本地运行，绝大多数数据存储在您的本地设备上。</p>
+                <p>1.2 为实现账号系统和特定功能，本软件会将您的账号信息、使用记录和匿名化问题文本发送至服务器。</p>
+                <p>1.3 您的账号数据将存储在受保护的服务器上，开发者将采取合理安全措施保护您的数据。</p>
+            </div>
 
-三、隐私政策 / Privacy Policy
+            <div class="lang-en">
+                <h3>Privacy Policy</h3>
+                <p><strong>1. Data Processing</strong></p>
+                <p>1.1 The Software runs locally in your browser, with most data stored on your local device.</p>
+                <p>1.2 To enable the account system and specific features, the Software will send your account information, usage records, and anonymized question text to the server.</p>
+                <p>1.3 Your account data will be stored on protected servers, and the developer will take reasonable security measures to protect your data.</p>
+            </div>
+            <br>
+            <div class="lang-zh">
+                <h3>五、协议更新与通知</h3>
+                <p><strong>1. 协议修改权</strong></p>
+                <p>开发者 ItsTimeTooSleep 保留随时单方面修改、更新或替换本协议任何内容的权利。</p>
 
-1. 数据处理 / Data Processing
-本软件在您的浏览器本地运行，绝大多数数据存储在您的本地设备上。为实现特定功能，本软件可能会将您当前页面的匿名化问题文本发送至第三方API。
-The Software runs locally in your browser, with most data stored on your local device. To enable specific features, the Software may send anonymized question text from your current page to third-party APIs.
+                <p><strong>2. 更新通知机制</strong></p>
+                <p>2.1 协议更新后，本软件界面可能显示更新通知，但开发者不承担主动通知每个用户的义务。</p>
 
-2. 第三方服务与代码 / Third-Party Services and Code
-2.1 本软件集成或使用了部分第三方代码、库及服务，这些第三方组件保留其各自的所有权利。
-The Software integrates or uses certain third-party code, libraries, and services, and these third-party components retain their respective ownership rights.
+                <p>2.2 您有责任定期访问 <a href="https://github.com/ItsTimeTooSleep/CheatMaster/blob/main/CheatMaster%20User%20Agreement%20and%20Disclaimer.txt" target="_blank">GitHub 协议页面</a> 查看最新版本的用户协议。</p>
 
-2.2 第三方组件可能具有独立的数据收集、处理政策，其行为不受开发者 ItsTimeTooSleep 控制。
-Third-party components may have independent data collection and processing policies, and their practices are not controlled by Developer ItsTimeTooSleep.
+                <p>2.3 继续使用本软件即视为您已接受更新后的协议条款。</p>
 
-2.3 您理解并同意，使用本软件即表示您同时接受所有集成第三方组件的各自条款和隐私政策。
-You understand and agree that using the Software means you also accept the respective terms and privacy policies of all integrated third-party components.
+                <p><strong>3. 版本有效性</strong></p>
+                <p>本软件界面显示的协议文本可能不是最新版本，以 GitHub 仓库中的文本为最终有效版本。</p>
+            </div>
+            <div class="lang-en">
+                <h3>Agreement Updates and Notifications</h3>
+                <p><strong>1. Agreement Modification Rights</strong></p>
+                <p>Developer ItsTimeTooSleep reserves the right to unilaterally modify, update, or replace any content of this agreement at any time.</p>
 
-2.4 开发者 ItsTimeTooSleep 不对任何第三方组件的内容、功能、数据实践或安全性作任何担保或承担任何责任。
-Developer ItsTimeTooSleep makes no warranties and assumes no liability for the content, functionality, data practices, or security of any third-party components.
+                <p><strong>2. Update Notification Mechanism</strong></p>
+                <p>2.1 After agreement updates, the Software interface may display update notifications, but the developer is not obligated to actively notify each user.</p>
 
-四、协议更新与通知 / Agreement Updates and Notifications
+                <p>2.2 You are responsible for regularly visiting the <a href="https://github.com/ItsTimeTooSleep/CheatMaster/blob/main/CheatMaster%20User%20Agreement%20and%20Disclaimer.txt" target="_blank">GitHub Agreement Page</a> to check the latest version of the user agreement.</p>
 
-1. 协议修改权 / Agreement Modification Rights
-开发者 ItsTimeTooSleep 保留随时单方面修改、更新或替换本协议任何内容的权利。
-Developer ItsTimeTooSleep reserves the right to unilaterally modify, update, or replace any content of this agreement at any time.
+                <p>2.3 Continued use of the Software will be deemed as your acceptance of the updated agreement terms.</p>
 
-2. 更新通知机制 / Update Notification Mechanism
-2.1 协议更新后，本软件界面可能显示更新通知，但开发者不承担主动通知每个用户的义务。
-After agreement updates, the Software interface may display update notifications, but the developer is not obligated to actively notify each user.
+                <p><strong>3. Version Validity</strong></p>
+                <p>The agreement text displayed in the Software interface may not be the latest version; the text in the GitHub repository shall be the final effective version.</p>
+            </div>
+            <br>
+            <div class="lang-zh">
+              <h3>六、其他条款</h3>
+                <p><strong>1. 管辖法律</strong></p>
+                <p>本协议受您居住国/地区的法律管辖，并据其解释。</p>
 
-2.2 您有责任定期访问 GitHub 协议页面 查看最新版本的用户协议。
-You are responsible for regularly visiting the GitHub Agreement Page to check the latest version of the user agreement.
+                <p><strong>2. 可分割性</strong></p>
+                <p>如果本协议的任何条款被认定为无效或不可执行，不影响其他条款的效力。</p>
 
-2.3 继续使用本软件即视为您已接受更新后的协议条款。
-Continued use of the Software will be deemed as your acceptance of the updated agreement terms.
+                <p><strong>3. 开发者信息</strong></p>
+                <p>本软件由 ItsTimeTooSleep 开发并保留所有权利。如有疑问，请通过插件内置反馈渠道联系。</p>
 
-3. 版本有效性 / Version Validity
-本软件界面显示的协议文本可能不是最新版本，以 GitHub 仓库中的文本为最终有效版本。
-The agreement text displayed in the Software interface may not be the latest version; the text in the GitHub repository shall be the final effective version.
+                <p><strong>4. 完整协议</strong></p>
+                <p>本协议构成您与开发者之间就本软件使用的完整协议，取代任何先前的口头或书面协议。</p>
+            </div>
+            <div class="lang-en">
+                <h3>Other Terms</h3>
+                <p><strong>1. Governing Law</strong></p>
+                <p>This agreement shall be governed by and construed in accordance with the laws of your country/region of residence.</p>
 
-五、其他条款 / Other Terms
+                <p><strong>2. Severability</strong></p>
+                <p>If any provision of this agreement is found to be invalid or unenforceable, it shall not affect the validity of the remaining provisions.</p>
 
-1. 管辖法律 / Governing Law
-本协议受您居住国/地区的法律管辖，并据其解释。
-This agreement shall be governed by and construed in accordance with the laws of your country/region of residence.
+                <p><strong>3. Developer Information</strong></p>
+                <p>This Software is developed by ItsTimeTooSleep and all rights are reserved. For questions, please contact through the built-in feedback channel in the extension.</p>
 
-2. 可分割性 / Severability
-如果本协议的任何条款被认定为无效或不可执行，不影响其他条款的效力。
-If any provision of this agreement is found to be invalid or unenforceable, it shall not affect the validity of the remaining provisions.
-
-3. 开发者信息 / Developer Information
-本软件由 ItsTimeTooSleep 开发并保留所有权利。如有疑问，请通过插件内置反馈渠道联系。
-This Software is developed by ItsTimeTooSleep and all rights are reserved. For questions, please contact through the built-in feedback channel in the extension.
-
-4. 完整协议 / Complete Agreement
-本协议构成您与开发者之间就本软件使用的完整协议，取代任何先前的口头或书面协议。
-This agreement constitutes the complete agreement between you and the developer regarding the use of the Software and supersedes any prior oral or written agreements.
-
-重要提示 / Important Notice:
-在下方输入框中输入"我已阅读并同意用户协议"即表示您已阅读、理解并同意受上述所有条款和条件的约束，包括但不限于接受所有风险、第三方条款以及定期查看 GitHub 协议更新的义务。
-Entering "I have read and agree to the User Agreement" in the input box below indicates that you have read, understood and agreed to be bound by all the above terms and conditions, including but not limited to accepting all risks, third-party terms, and the obligation to regularly check GitHub for agreement updates.
+                <p><strong>4. Complete Agreement</strong></p>
+                <p>This agreement constitutes the complete agreement between you and the developer regarding the use of the Software and supersedes any prior oral or written agreements.</p>
+            </div>
+            <br>
+            <div class="acknowledgement">
+            <div class="lang-zh">
+                <p><strong>重要提示</strong></p>
+                <p>在下方输入框中输入"我已阅读并同意用户协议"即表示您已阅读、理解并同意受上述所有条款和条件的约束，包括但不限于接受所有风险、第三方条款以及定期查看 GitHub 协议更新的义务。</p></div>
+            <div class="lang-en">
+                <p><strong>Important Notice:</strong></p>
+                <p>Entering "I have read and agree to the User Agreement" in the input box below indicates that you have read, understood and agreed to be bound by all the above terms and conditions, including but not limited to accepting all risks, third-party terms, and the obligation to regularly check GitHub for agreement updates.</p>
+            </div>
+            
+            <div class="disclaimer-controls">
+                <input type="text" id="disclaimer-input" data-zh-placeholder="我已阅读并同意用户协议" data-en-placeholder="I have read and agree to the User Agreement" placeholder="继续" />
+                <button id="agree-disclaimer" data-zh-text="继续" data-en-text="Continue" data-zh-complete-text="完成" data-en-complete-text="Done">继续</button>
+            </div>
+        </div>
+    </div>
